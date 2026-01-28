@@ -39,4 +39,5 @@ data/
 results/
 *.png
 *.pdf
+!The Neural Cryptanalyst.pdf
 *.docx
