@@ -9,7 +9,7 @@ This repository accompanies the paper:
 
 > **The Neural Cryptanalyst: Machine Learning-Powered Side-Channel Attacks - A Comprehensive Survey**
 > Ahmed Taha, Johns Hopkins University, 2025
-> [[PDF]](The%20Neural%20Cryptanalyst.pdf) [[Zenodo]](https://doi.org/10.5281/zenodo.15694329)
+> [[PDF]](The%20Neural%20Cryptanalyst.pdf) [[Zenodo]](https://zenodo.org/records/18407224)
 
 ---
 
@@ -21,7 +21,7 @@ This repository accompanies the paper:
   title        = {The Neural Cryptanalyst: Machine Learning-Powered
                   Side-Channel Attacks - A Comprehensive Survey},
   year         = {2025},
-  doi          = {10.5281/zenodo.15694329},
+  doi          = {10.5281/zenodo.18407224},
   url          = {https://github.com/ahmedtaha100/Neural-Cryptanalyst}
 }
 ```
