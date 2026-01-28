@@ -1,0 +1,12 @@
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=0.24.0
+# TensorFlow 2.14+ dropped Python 3.8 support. Limit the version
+# to ensure compatibility with the oldest supported Python version.
+# Note: This should match the constraint in setup.py
+tensorflow>=2.8.0,<2.14.0
+matplotlib>=3.4.0
+h5py>=3.1.0
+joblib>=1.0.0
+dtaidistance>=2.0.0
+tqdm>=4.0
